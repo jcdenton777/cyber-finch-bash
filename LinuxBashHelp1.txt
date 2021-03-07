@@ -1,0 +1,48 @@
+neonrcg@neonromulus7:~$ help
+GNU bash, version 5.0.17(1)-release (x86_64-pc-linux-gnu)
+These shell commands are defined internally.  Type `help' to see this list.
+Type `help name' to find out more about the function `name'.
+Use `info bash' to find out more about the shell in general.
+Use `man -k' or `info' to find out more about commands not in this list.
+
+A star (*) next to a name means that the command is disabled.
+
+ job_spec [&]               history [-c] [-d offset>
+ (( expression ))           if COMMANDS; then COMMA>
+ . filename [arguments]     jobs [-lnprs] [jobspec >
+ :                          kill [-s sigspec | -n s>
+ [ arg... ]                 let arg [arg ...]
+ [[ expression ]]           local [option] name[=va>
+ alias [-p] [name[=value]>  logout [n]
+ bg [job_spec ...]          mapfile [-d delim] [-n >
+ bind [-lpsvPSVX] [-m key>  popd [-n] [+N | -N]
+ break [n]                  printf [-v var] format >
+ builtin [shell-builtin [>  pushd [-n] [+N | -N | d>
+ caller [expr]              pwd [-LP]
+ case WORD in [PATTERN [|>  read [-ers] [-a array] >
+ cd [-L|[-P [-e]] [-@]] [>  readarray [-d delim] [->
+ command [-pVv] command [>  readonly [-aAf] [name[=>
+ compgen [-abcdefgjksuv] >  return [n]
+ complete [-abcdefgjksuv]>  select NAME [in WORDS .>
+ compopt [-o|+o option] [>  set [-abefhkmnptuvxBCHP>
+ continue [n]               shift [n]
+ coproc [NAME] command [r>  shopt [-pqsu] [-o] [opt>
+ declare [-aAfFgilnrtux] >  source filename [argume>
+ dirs [-clpv] [+N] [-N]     suspend [-f]
+ disown [-h] [-ar] [jobsp>  test [expr]
+ echo [-neE] [arg ...]      time [-p] pipeline
+ enable [-a] [-dnps] [-f >  times
+ eval [arg ...]             trap [-lp] [[arg] signa>
+ exec [-cl] [-a name] [co>  true
+ exit [n]                   type [-afptP] name [nam>
+ export [-fn] [name[=valu>  typeset [-aAfFgilnrtux]>
+ false                      ulimit [-SHabcdefiklmnp>
+ fc [-e ename] [-lnr] [fi>  umask [-p] [-S] [mode]
+ fg [job_spec]              unalias [-a] name [name>
+ for NAME [in WORDS ... ]>  unset [-f] [-v] [-n] [n>
+ for (( exp1; exp2; exp3 >  until COMMANDS; do COMM>
+ function name { COMMANDS>  variables - Names and m>
+ getopts optstring name [>  wait [-fn] [id ...]
+ hash [-lr] [-p pathname]>  while COMMANDS; do COMM>
+ help [-dms] [pattern ...>  { COMMANDS ; }
+neonrcg@neonromulus7:~$

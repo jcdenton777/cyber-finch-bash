@@ -1,0 +1,24 @@
+warning: templates not found /usr/share/git-core/templates
+fatal: Unable to find remote helper for 'https'
+exit status 128
+
+look at add as needed:
+
+https://www.reddit.com/r/linux4noobs/comments/9f7xky/how_to_get_python_37_on_kde_neon_tried_installing/
+https://snapcraft.io/search?q=python&page=3
+https://averagelinuxuser.com/10-things-to-do-after-installing-kde-neon/
+https://techbase.kde.org/Languages/Python/Using_PyKDE_4
+https://www.youtube.com/watch?v=9ToyNWl-xFk
+https://www.reddit.com/r/kdeneon/comments/hbt7nu/can_i_update_my_python_or_will_it_raise_issues/
+https://www.reddit.com/r/kdeneon/comments/a1hkst/how_critical_is_it_that_i_use_pkcon_over_apt/
+https://duckduckgo.com/?q=ubuntu+python+apt+commands&t=opera&ia=web
+https://www.makeuseof.com/install-python-ubuntu/
+https://snapcraft.io/search?q=py
+https://snapcraft.io/pypy
+https://duckduckgo.com/?q=apt+search+index&t=opera&ia=web&iai=r1-4&page=1&sexp=%7B%22cdrexp%22%3A%22b%22%2C%22artexp%22%3A%22b%22%2C%22prodexp%22%3A%22b%22%2C%22prdsdexp%22%3A%22c%22%2C%22biaexp%22%3A%22b%22%2C%22msvrtexp%22%3A%22b%22%7D
+https://www.tecmint.com/useful-basic-commands-of-apt-get-and-apt-cache-for-package-management/
+https://askubuntu.com/questions/160897/how-do-i-search-for-available-packages-from-the-command-line#160899
+https://askubuntu.com/questions/160897/how-do-i-search-for-available-packages-from-the-command-line
+https://snapcraft.io/store
+
+https://linuxize.com/post/how-to-create-python-virtual-environments-on-ubuntu-18-04/
